@@ -1,5 +1,7 @@
 # A Perfect Budget Hackintosh - Gigabyte H410M H V2, Core i3 10100 & iGPU UHD 630
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-H410M-H-V2-rev1.7-CORE-i3-10100-iGPU-PUBLIC/assets/23700365/751662f6-061f-4be9-97b7-b89035935e32)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.0)
