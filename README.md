@@ -29,10 +29,13 @@
 
 |Part|Link to Buy|
 |-|:-------:|
-|Mobo Gigabyte H410M H V2|https://www.kabum.com.br/produto/457817|
-|CPU Intel Core i3 10100|https://www.pichau.com.br/processador-intel-core-i3-10100-4-core-8-threads-3-6ghz-4-3ghz-turbo-cache-6mb-lga1200-bx8070110100|
-|NVME SSD 500 GB Kingston NV2|https://www.kabum.com.br/produto/380744|
-|Wireless & Bluetooth with AirDrop|https://s.click.aliexpress.com/e/_Dc829Vh|
+|Gabinete Gamer TGT Jester, Lateral de Vidro, Com 2 Fans, Preto, TGT-JSR-BKGF01|[Link to Buy](https://www.pichau.com.br/gabinete-gamer-tgt-jester-mid-tower-lateral-de-vidro-com-2-fans-preto-tgt-jsr-bkgf01)|
+|Mancer Thunder 400W, 80 Plus Bronze, MCR-THR400-BL01-OEM|[Link to Buy](https://www.pichau.com.br/fonte-mancer-thunder-400w-80-plus-bronze-mcr-thr400-bl01-oem)| 
+|Gigabyte H410M H V2|[Link to Buy](https://www.kabum.com.br/produto/457817)|
+|Intel Core i3 10100|[Link to Buy](https://www.pichau.com.br/processador-intel-core-i3-10100-4-core-8-threads-3-6ghz-4-3ghz-turbo-cache-6mb-lga1200-bx8070110100)|
+|Memoria 16Gb DDR4 (2x8Gb)|[Link to Buy](https://www.kabum.com.br/produto/110771)|
+|NVME SSD 500 GB Kingston NV2|[Link to Buy](https://www.kabum.com.br/produto/380744)|
+|Wireless & Bluetooth with AirDrop|[Link to Buy](https://s.click.aliexpress.com/e/_Dc829Vh)|
 
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
