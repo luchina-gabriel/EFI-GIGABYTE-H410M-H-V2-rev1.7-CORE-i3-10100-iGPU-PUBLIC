@@ -41,7 +41,6 @@
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
 
 ## How to get a copy of EFI
-- 🔥 Become a HACKINTOSH VIP member on the "Universo Hackintosh" channel
 - ✅ Hire the remote installation service from Universo Hackintosh
 - 🛠️ [consultoria@universohackintosh.com.br](mailto:consultoria@universohackintosh.com.br)
 
